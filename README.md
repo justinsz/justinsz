@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justinsz aka @Fledd
 - 👀 I’m interested in Blockchain Technology and the 'Metaverse'
-- 🌱 I’m currently learning Solidity
+- 🌱 Solidity, JavaScript and Python
 
 <!---
 justinsz/justinsz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
