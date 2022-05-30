@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @justinsz aka @Fledd
+- 👋 Hi, I’m @justinsz aka @r2djo
 - 👀 I’m interested in Blockchain Technology and the 'Metaverse'
 - 🌱 Rust, Solidity, JavaScript and Python
 
